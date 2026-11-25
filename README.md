@@ -92,7 +92,7 @@ CICS_ws/
 
 공개 대상은 `README.md`, `.gitignore`, `src/`이다. 원본 로그, 논문·발표 자료, 이전 개발 코드, 빌드 생성물과 이전 Git 데이터베이스는 공개하지 않는다. 원본은 로컬 `archive/`에 보존한다.
 
-## 5. インストールと実行
+## 5. 설치와 실행
 
 ```bash
 git clone https://github.com/jk2001-king/micro-yaw-initial-motion-control.git ~/CICS_ws
