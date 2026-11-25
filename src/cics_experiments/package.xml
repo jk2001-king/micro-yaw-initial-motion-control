@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>cics_experiments</name>
+  <version>0.1.0</version>
+  <description>Final CICS micro-yaw initiation and body-yaw recovery experiments.</description>
+  <maintainer email="jk@example.com">Junggeun Park</maintainer>
+  <license>UNLICENSED</license>
+  <buildtool_depend>ament_python</buildtool_depend>
+  <exec_depend>ament_index_python</exec_depend>
+  <exec_depend>launch</exec_depend>
+  <exec_depend>launch_ros</exec_depend>
+  <exec_depend>patient_transport_description</exec_depend>
+  <exec_depend>wheelchair_description</exec_depend>
+  <exec_depend>python3-numpy</exec_depend>
+  <exec_depend>python3-scipy</exec_depend>
+  <exec_depend>python3-matplotlib</exec_depend>
+  <test_depend>python3-pytest</test_depend>
+  <export><build_type>ament_python</build_type></export>
+</package>

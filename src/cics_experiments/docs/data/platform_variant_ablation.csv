@@ -1,0 +1,5 @@
+platform,variant,internal_code,selected_for_main_paper,median_lateral_mm,condition_wins_over_other_variant_lateral_mm,median_yaw_deg,condition_wins_over_other_variant_yaw_deg,median_jerk_m_s3,condition_wins_over_other_variant_jerk_m_s3,median_time_s,condition_wins_over_other_variant_time_s,median_spread_mm,condition_wins_over_other_variant_spread_mm
+wheelchair,Preset variant,B3H,True,0.9079114032339063,5,0.2073277834588873,7,0.7653664163646018,2,19.62633244371951,3,0.15731664486971583,2
+wheelchair,Response-terminated variant,P,False,1.577081065610875,2,0.5246578374952475,0,0.9022257387091588,5,19.64012738751693,4,0.16282425464708264,5
+patient_transport,Response-terminated variant,P,True,0.20847322196051365,1,0.10333888997069932,9,0.8529869793496365,6,16.557854745375376,0,0.037475437420757804,6
+patient_transport,Preset variant,B3H,False,0.2399164470080843,8,0.5878074232006258,0,1.1511540877143553,3,16.52238086071236,9,0.04794033990177477,3

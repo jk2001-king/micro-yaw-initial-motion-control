@@ -1,0 +1,19 @@
+# Standard ROS / Python generated files
+/build/
+/install/
+/log/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.vscode/
+*.code-workspace
+
+# Immutable original records and recoverable development material
+/archive/
+.env
+.env.*
+*.pem
+*.key
+*.tmp.usd
+*.autosave.usd
